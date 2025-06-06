@@ -6,3 +6,5 @@ for i in range(power):
     s = s * num
 
 print(s)
+print(power)
+print(num)
