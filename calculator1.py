@@ -23,6 +23,8 @@ def divide():
     b = float(input("enter num:"))
     if b <= 0:
         print("The number cannot be divided.")
+    else:
+        print(a/b)
 
 Running = True
 
