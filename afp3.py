@@ -15,5 +15,8 @@ while temp_number > 0:
 
 if sum_of_powers == number:
     print("It is a Disarium number.")
+
+#elif sum_of_poers == number:
+    
 else:
     print("It is not a Disarium number.")
