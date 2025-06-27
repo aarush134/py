@@ -1,0 +1,3 @@
+Aarush Bhattarai is good
+Hello World
+print("Hello world")

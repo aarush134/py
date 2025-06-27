@@ -1,0 +1,4 @@
+Aarush Bhattarai is good
+Coding King
+Hello World
+print("Hello world")

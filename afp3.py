@@ -20,3 +20,9 @@ if sum_of_powers == number:
     
 else:
     print("It is not a Disarium number.")
+
+choice = int(input("Enter your number:"))
+
+if choice == 0:
+    print("hello world")
+
